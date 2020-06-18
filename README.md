@@ -1,4 +1,4 @@
-# Facial Recognition Login
+# Facial Recognition Login System
 Facial recognition login system using Deep learning + ReactJS
 
 **
